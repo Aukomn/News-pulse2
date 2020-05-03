@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#FAFAFA</color>
+
+    <color name="grey_40">#999999</color>
+    <color name="grey_90">#263238</color>
+
+
+    <!--Material color list from https://material.io/guidelines/style/color.html-->
+
+
+    <!--for random color generator -->
+    <color name="dgray">#7C7C7C</color>
+</resources>
